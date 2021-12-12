@@ -1,4 +1,3 @@
-# Safe-map-path-recommendation-system
 <h1> Hack Infinity 2.0  </h1>
 <h2> <b> CAUTIOUS </b> </h2>
 <h3> Introduction </h3>
